@@ -1,4 +1,4 @@
-**🚀 Live Preview:** mini-insta-post-clone.vercel.app
+**🚀 Live Preview:** https://mini-insta-post-clone.vercel.app/
 
 
 🧐 **Curious about the magic behind this?**  
