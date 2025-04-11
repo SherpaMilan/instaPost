@@ -1,4 +1,5 @@
-**🚀 Live Preview:**
+**🚀 Live Preview:** mini-insta-post-clone.vercel.app
+
 
 🧐 **Curious about the magic behind this?**  
 Dive into the code and see how it all comes together on [CodePen](https://codepen.io/MilanJS/pen/MYWQQqN).
