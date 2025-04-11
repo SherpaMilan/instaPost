@@ -5,9 +5,9 @@ Dive into the code and see how it all comes together on [CodePen](https://codepe
 
 ---
 
-# 🎯 **Welcome to the Instagram-Style Post!**
+## 🎯 **Instagram-Style Post**
 
-Built using **HTML**, **CSS**, and **Vanilla JavaScript**. Enjoy the interactive experience! 🎉
+Built with **HTML**, **CSS**, and **Vanilla JavaScript**. Check it out for a dynamic, interactive experience!
 
 ---
 
@@ -40,15 +40,11 @@ Built using **HTML**, **CSS**, and **Vanilla JavaScript**. Enjoy the interactive
 ## 🚦 **How to Run Locally**
 
 1. Clone or download this repository  
-2. Open `index.html` in your favorite browser  
-3. Start liking, commenting, and having fun! 🚀
+2. Open `index.html` in your browser  
+3. Start liking, commenting, and enjoying! 🚀
 
 ---
 
 ## 🎯 **Motivation**
 
 "One post at a time. 🚀 #StayStylish"
-
----
-
-### ✨ **Enjoy the experience and get creative with it!**
